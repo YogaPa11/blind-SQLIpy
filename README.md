@@ -62,3 +62,5 @@ python3 sqli.py
 ```
 Penyerangan blind SQLIpy pada nomor 2 untuk mendapatkan nama database sasaran.
 
+# Pemberitahuan Dari Saya
+Jika kamu menggunakan alat saya ini harap bersabar dan menunggu untuk mendapatkan server database sasaran karena ini menggunakan metode time based blind sql injection jadi ini juga membutuhkan koneksi internet.
