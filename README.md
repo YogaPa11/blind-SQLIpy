@@ -1,6 +1,13 @@
 # blind SQLIpy
 Alat blind SQLIpy ini merupakan alat injeksi sql yang menggunakan metode time based blind sql injection metode tersebut membutuhkan waktu yang lama agar bisa mendapatkan sebuah server database. Alat yang saya bangun ini menggunakan bantuan sebuah library seperti library blinder dan requests untuk bisa mendapatkan server database tersebut dan bahasa pemrograman python.
 
+# Yang Bisa Di Lakukan blind SQLIpy
+1. Cek Injeksi URL Sasaran
+2. Dapatkan Nama Database Sasaran
+3. Dapatkan Nama Tabel Sasaran
+4. Dapatkan Jumlah Tabel Sasaran
+5. Dork Injeksi SQL
+
 # Di Uji Pada :
 - Windows
 - Kali Linux
