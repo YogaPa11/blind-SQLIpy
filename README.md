@@ -14,7 +14,7 @@ Alat blind SQLIpy ini merupakan alat injeksi sql yang menggunakan metode time ba
 
 # Penginstallan Pada Windows Dan Kali Linux
 ```
-https://github.com/galihap76/blind-SQLIpy.git
+git clone https://github.com/galihap76/blind-SQLIpy.git
 ```
 Kamu cukup clone dan simpan pada direktori mana pun.
 
