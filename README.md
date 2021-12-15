@@ -20,6 +20,7 @@ Kamu cukup clone dan simpan pada direktori mana pun.
 
 # Penggunaan Pada Windows
 ```
+C:\Users\GalihAp76>cd blind-SQLIpy
 C:\Users\GalihAp76\blind-SQLIpy>sqli.py
 ```
 
